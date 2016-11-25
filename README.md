@@ -13,7 +13,8 @@ Feel free to bump into code! We are looking to implement sleep function for Atti
 This repo contains Cadsoft Eagle .sch and .brd files for LED dice PCB board. It also contains schematic in .pdf created from .sch Eagle file. 
 Files have been arranged into folders for navigating between different versions of board. 
 Tip: layer 200 shows top silkscreen and layer 208 should be bottom silkscreen. tParts and bParts layers are not used.
-There is also a firmware folder in which you can find Arduino code for microcontroller. 
+There is also a Firmware folder in which you can find Arduino code for microcontroller which is programmed to Attiny85.
+In Firmware folder, you will also find v2.c file. This is code written in C, doing the same thing as Arduino version, but it was written this way so it could fit to the Attiny13(less then 1kB of Flash). 
 
 ## Docs
 - [LED dice product page] (https://e-radionica.com/en/kokica-od-leda-set-za-ucenje-lemljenja.html)
