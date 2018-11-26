@@ -1,8 +1,7 @@
 # LED dice
 ## Image
-![LED dice image]
-(https://e-radionica.com/media/catalog/product/d/s/dsc_4875_1.jpg)
-[LED dice(100034)] (https://e-radionica.com/en/kokica-od-leda-set-za-ucenje-lemljenja.html)
+![LED dice image](https://e-radionica.com/media/catalog/product/d/s/dsc_4875_1.jpg)
+[LED dice(100034)](https://e-radionica.com/en/kokica-od-leda-set-za-ucenje-lemljenja.html)
 
 ## Description and details
 LED dice is simple & easy way to get into soldering. While learning to solder, you will also create unique gadget which you can carry around. Board is powered by small CR2032 battery and the brain of circuit Atmel Attiny85 microcontroller.
